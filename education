@@ -1,0 +1,11 @@
+,NAME_EDUCATION_TYPE,Cible,Percentage
+0,Academic degree,Clients sans impayés,98.2
+1,Higher education,Clients sans impayés,94.6
+2,Incomplete higher,Clients sans impayés,91.5
+3,Lower secondary,Clients sans impayés,89.1
+4,Secondary / secondary special,Clients sans impayés,91.1
+5,Academic degree,Clients avec impayés,1.8
+6,Higher education,Clients avec impayés,5.4
+7,Incomplete higher,Clients avec impayés,8.5
+8,Lower secondary,Clients avec impayés,10.9
+9,Secondary / secondary special,Clients avec impayés,8.9
