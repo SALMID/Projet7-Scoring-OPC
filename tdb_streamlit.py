@@ -231,7 +231,8 @@ def main() :
             
         with st.spinner('Calcul en cours'):
                      
-            API_url = "http://127.0.0.1:5000/credit/" + str(identifiant)
+            #API_url = "http://127.0.0.1:5000/credit/" + str(identifiant)
+            API_url = "https://dsalmi-app-flask.herokuapp.com/credit/" + str(identifiant)
 
         with st.spinner('Chargement des résultats...'):
             json_url = urlopen(API_url)
