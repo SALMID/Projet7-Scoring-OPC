@@ -35,7 +35,7 @@ def load_prediction(df,id, model):
 DEBUG = True
 app = Flask(__name__)
 app.config.from_object(__name__)
-app.config['SECRET_KEY'] = 'NOSECRETKEY'
+#app.config['SECRET_KEY'] = 'NOSECRETKEY'
 
 df,X= load_data()
 model= load_model()
