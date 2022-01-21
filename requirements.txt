@@ -5,3 +5,4 @@ numpy==1.20.3
 pickleshare==0.7.5
 scikit-learn==1.0.1
 lightgbm==3.3.1
+pyarrow==6.0.1
