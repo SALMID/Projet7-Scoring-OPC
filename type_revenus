@@ -1,0 +1,17 @@
+,NAME_INCOME_TYPE,Cible,Percentage
+0,Businessman,Clients sans impayés,100.0
+1,Commercial associate,Clients sans impayés,92.5
+2,Maternity leave,Clients sans impayés,60.0
+3,Pensioner,Clients sans impayés,94.6
+4,State servant,Clients sans impayés,94.2
+5,Student,Clients sans impayés,100.0
+6,Unemployed,Clients sans impayés,63.6
+7,Working,Clients sans impayés,90.4
+8,Businessman,Clients avec impayés,0.0
+9,Commercial associate,Clients avec impayés,7.5
+10,Maternity leave,Clients avec impayés,40.0
+11,Pensioner,Clients avec impayés,5.4
+12,State servant,Clients avec impayés,5.8
+13,Student,Clients avec impayés,0.0
+14,Unemployed,Clients avec impayés,36.4
+15,Working,Clients avec impayés,9.6
