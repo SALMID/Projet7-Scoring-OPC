@@ -1,1 +1,1 @@
-web: gunicorn app_flask:app
+web: sh setup.sh && streamlit run --server.port $PORT tdb_streamlit.py
