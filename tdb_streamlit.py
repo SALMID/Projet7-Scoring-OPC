@@ -210,7 +210,7 @@ def main() :
     ### Sidebar
     st.sidebar.title("Menu")
     
-    list=pd.read_csv('Données/df_nn_target.csv',index_col='SK_ID_CURR',encoding ='utf-8')
+    list=pd.read_csv('df_nn_target.csv',index_col='SK_ID_CURR',encoding ='utf-8')
     identifiant=list.index.values
     
     identifiant = st.sidebar.selectbox('Choisir un Identifiant client: ', identifiant)
