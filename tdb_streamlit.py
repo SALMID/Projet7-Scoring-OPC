@@ -163,14 +163,8 @@ def main() :
         model= pickle.load(pickle_in)
         
         nn = open('NearestNeighborsModel.pkl', 'rb')
-        nn = pickle.load(nn)
-        
-        explainer=open('shap_values.pkl', 'rb')
-        explainer=pickle.load(explainer)
-        
-        shap_values=open('shap_values.pkl', 'rb')
-        shap_values=pickle.load(shap_values)        
-        return model,nn,shap_values,explainer
+        nn = pickle.load(nn)                   
+        return model,nn
     
    
     def var_interpretabilte (table):
@@ -198,7 +192,7 @@ def main() :
     
     data,feats,df_nn_target,df_compa,genre,education,revenus= load_data()
     
-    model, nn,shap_values,explainer= load_model()
+    model, nn= load_model()
     
 
     #############################################################################################################################
