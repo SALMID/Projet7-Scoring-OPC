@@ -1,0 +1,782 @@
+,SK_ID_CURR,CODE_GENDER,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_CONTRACT_TYPE,TARGET
+0,447649,F,Working,Incomplete higher,Revolving loans,0
+1,118955,F,Working,Secondary / secondary special,Cash loans,0
+2,289458,F,Working,Secondary / secondary special,Cash loans,0
+3,400827,M,State servant,Secondary / secondary special,Cash loans,0
+4,243960,F,Commercial associate,Incomplete higher,Cash loans,0
+5,401423,F,Working,Secondary / secondary special,Cash loans,0
+6,209236,F,Working,Secondary / secondary special,Cash loans,0
+7,304050,M,Commercial associate,Secondary / secondary special,Cash loans,0
+8,129189,F,Working,Secondary / secondary special,Cash loans,0
+9,433550,F,Working,Secondary / secondary special,Cash loans,0
+10,186501,F,Working,Secondary / secondary special,Cash loans,0
+11,122454,M,Commercial associate,Higher education,Revolving loans,0
+12,392690,F,Commercial associate,Higher education,Cash loans,0
+13,266033,M,Working,Higher education,Cash loans,0
+14,139915,F,Commercial associate,Secondary / secondary special,Cash loans,0
+15,134941,F,Working,Secondary / secondary special,Cash loans,0
+16,208633,F,Working,Secondary / secondary special,Cash loans,0
+17,284233,F,Working,Secondary / secondary special,Cash loans,0
+18,451752,F,Commercial associate,Higher education,Cash loans,0
+19,448430,F,Working,Higher education,Cash loans,0
+20,349499,F,Working,Higher education,Cash loans,0
+21,281540,F,Working,Secondary / secondary special,Revolving loans,0
+22,250399,M,Working,Incomplete higher,Cash loans,0
+23,108253,M,Working,Higher education,Cash loans,0
+24,112675,F,Working,Secondary / secondary special,Cash loans,0
+25,401818,F,Commercial associate,Higher education,Cash loans,0
+26,135936,F,Working,Higher education,Cash loans,0
+27,210076,M,State servant,Secondary / secondary special,Cash loans,0
+28,143054,F,Commercial associate,Higher education,Cash loans,0
+29,198821,M,Working,Secondary / secondary special,Revolving loans,0
+30,122707,F,Working,Secondary / secondary special,Revolving loans,0
+31,125202,M,Working,Secondary / secondary special,Revolving loans,0
+32,285208,M,Working,Secondary / secondary special,Cash loans,0
+33,357586,F,Working,Secondary / secondary special,Cash loans,0
+34,154116,F,Commercial associate,Higher education,Cash loans,0
+35,186636,F,Commercial associate,Secondary / secondary special,Cash loans,0
+36,200672,F,Working,Higher education,Cash loans,0
+37,224267,M,Working,Secondary / secondary special,Cash loans,0
+38,308737,M,State servant,Secondary / secondary special,Cash loans,0
+39,102211,M,Working,Secondary / secondary special,Cash loans,0
+40,182750,F,Working,Secondary / secondary special,Cash loans,0
+41,342610,F,Working,Secondary / secondary special,Cash loans,0
+42,334656,F,Commercial associate,Higher education,Cash loans,0
+43,259764,F,Commercial associate,Higher education,Cash loans,0
+44,165623,M,State servant,Secondary / secondary special,Cash loans,0
+45,118588,F,Commercial associate,Higher education,Cash loans,0
+46,409346,F,Commercial associate,Higher education,Cash loans,0
+47,107772,F,Working,Secondary / secondary special,Cash loans,0
+48,397394,F,Working,Secondary / secondary special,Cash loans,0
+49,335205,F,Working,Secondary / secondary special,Cash loans,0
+50,174935,F,Working,Secondary / secondary special,Cash loans,0
+51,393084,M,Commercial associate,Higher education,Cash loans,0
+52,324051,F,Working,Secondary / secondary special,Cash loans,0
+53,197464,F,Commercial associate,Secondary / secondary special,Cash loans,0
+54,213660,F,Working,Secondary / secondary special,Cash loans,0
+55,456101,M,Working,Secondary / secondary special,Cash loans,0
+56,118167,F,Working,Higher education,Cash loans,0
+57,355465,M,Working,Secondary / secondary special,Cash loans,0
+58,156317,F,Commercial associate,Secondary / secondary special,Cash loans,0
+59,127206,M,Working,Secondary / secondary special,Cash loans,0
+60,132351,F,Working,Secondary / secondary special,Cash loans,0
+61,254018,M,Working,Secondary / secondary special,Cash loans,0
+62,402187,F,Working,Higher education,Cash loans,0
+63,250248,M,Working,Secondary / secondary special,Cash loans,0
+64,293934,F,Working,Higher education,Cash loans,0
+65,104169,M,Working,Secondary / secondary special,Cash loans,0
+66,287910,F,State servant,Secondary / secondary special,Revolving loans,0
+67,306118,M,Commercial associate,Secondary / secondary special,Cash loans,0
+68,428655,F,Working,Secondary / secondary special,Cash loans,0
+69,181760,F,Working,Secondary / secondary special,Cash loans,0
+70,426817,F,Working,Secondary / secondary special,Cash loans,0
+71,356467,F,Commercial associate,Higher education,Cash loans,0
+72,450954,F,Working,Secondary / secondary special,Cash loans,0
+73,429296,M,Working,Higher education,Cash loans,0
+74,334445,F,Working,Higher education,Cash loans,0
+75,301716,F,Commercial associate,Secondary / secondary special,Cash loans,0
+76,431542,M,State servant,Higher education,Cash loans,0
+77,172066,F,Working,Higher education,Cash loans,0
+78,263468,M,Working,Secondary / secondary special,Cash loans,0
+79,308855,F,Commercial associate,Secondary / secondary special,Cash loans,0
+80,306053,M,Working,Secondary / secondary special,Cash loans,0
+81,320730,F,Working,Secondary / secondary special,Revolving loans,0
+82,242242,M,Working,Secondary / secondary special,Cash loans,0
+83,270079,M,Working,Secondary / secondary special,Revolving loans,0
+84,337127,F,Commercial associate,Higher education,Cash loans,0
+85,106123,F,Working,Higher education,Revolving loans,0
+86,141193,F,Working,Secondary / secondary special,Cash loans,0
+87,289841,F,Commercial associate,Higher education,Cash loans,0
+88,426445,M,Working,Incomplete higher,Cash loans,0
+89,346022,M,Working,Secondary / secondary special,Cash loans,0
+90,159388,M,Working,Secondary / secondary special,Cash loans,0
+91,429020,F,Commercial associate,Secondary / secondary special,Cash loans,0
+92,105826,F,Working,Secondary / secondary special,Cash loans,0
+93,200514,M,Working,Secondary / secondary special,Cash loans,0
+94,183724,F,Working,Secondary / secondary special,Cash loans,0
+95,162492,F,Commercial associate,Higher education,Cash loans,0
+96,426106,F,Commercial associate,Secondary / secondary special,Cash loans,0
+97,161769,F,Working,Higher education,Revolving loans,0
+98,133392,F,Working,Higher education,Cash loans,0
+99,322756,M,Working,Incomplete higher,Cash loans,0
+100,268025,F,Working,Secondary / secondary special,Cash loans,0
+101,145691,F,Working,Secondary / secondary special,Cash loans,0
+102,426352,F,Working,Higher education,Cash loans,0
+103,341470,F,Commercial associate,Higher education,Cash loans,0
+104,316137,M,Working,Secondary / secondary special,Cash loans,0
+105,147068,M,Working,Secondary / secondary special,Cash loans,0
+106,454679,F,Commercial associate,Incomplete higher,Cash loans,0
+107,259645,F,Working,Higher education,Cash loans,0
+108,148207,F,Commercial associate,Higher education,Cash loans,0
+109,223431,M,Working,Higher education,Cash loans,0
+110,245128,F,Commercial associate,Secondary / secondary special,Cash loans,0
+111,408096,F,Working,Secondary / secondary special,Cash loans,0
+112,192809,M,Working,Secondary / secondary special,Cash loans,0
+113,261521,M,Working,Secondary / secondary special,Cash loans,0
+114,119571,F,Working,Secondary / secondary special,Cash loans,0
+115,409518,F,Working,Higher education,Cash loans,0
+116,442447,F,Working,Secondary / secondary special,Cash loans,0
+117,175384,F,Working,Lower secondary,Cash loans,0
+118,347873,F,State servant,Higher education,Cash loans,0
+119,456158,M,Commercial associate,Secondary / secondary special,Revolving loans,0
+120,157013,M,Working,Higher education,Cash loans,0
+121,129599,F,Working,Secondary / secondary special,Cash loans,0
+122,343156,F,Working,Secondary / secondary special,Cash loans,0
+123,226482,F,Working,Secondary / secondary special,Cash loans,0
+124,329879,M,Commercial associate,Secondary / secondary special,Cash loans,0
+125,364132,F,Working,Secondary / secondary special,Cash loans,0
+126,439963,M,Working,Higher education,Cash loans,0
+127,105847,F,Commercial associate,Secondary / secondary special,Cash loans,0
+128,322471,F,Working,Secondary / secondary special,Revolving loans,0
+129,245780,F,Commercial associate,Secondary / secondary special,Cash loans,0
+130,301881,F,Commercial associate,Higher education,Cash loans,0
+131,360173,F,State servant,Higher education,Revolving loans,0
+132,111464,M,Working,Secondary / secondary special,Cash loans,0
+133,214104,F,Working,Secondary / secondary special,Cash loans,0
+134,225395,F,Commercial associate,Higher education,Cash loans,0
+135,414017,F,Working,Secondary / secondary special,Revolving loans,0
+136,369036,F,State servant,Higher education,Cash loans,0
+137,102893,F,State servant,Higher education,Cash loans,0
+138,122433,F,Working,Secondary / secondary special,Cash loans,0
+139,450313,F,Working,Secondary / secondary special,Cash loans,0
+140,167076,M,Working,Secondary / secondary special,Cash loans,0
+141,335780,M,Commercial associate,Secondary / secondary special,Cash loans,0
+142,438933,F,Working,Secondary / secondary special,Revolving loans,0
+143,453786,F,Working,Secondary / secondary special,Cash loans,0
+144,153064,M,Working,Secondary / secondary special,Cash loans,0
+145,328958,F,Commercial associate,Higher education,Cash loans,0
+146,227667,F,Commercial associate,Higher education,Cash loans,0
+147,137626,F,Working,Secondary / secondary special,Revolving loans,0
+148,179777,F,Commercial associate,Secondary / secondary special,Cash loans,0
+149,255685,F,Working,Secondary / secondary special,Revolving loans,0
+150,119505,M,Working,Secondary / secondary special,Cash loans,0
+151,263098,F,Working,Secondary / secondary special,Cash loans,0
+152,196302,F,Commercial associate,Higher education,Revolving loans,0
+153,391691,F,Working,Higher education,Cash loans,0
+154,126769,M,Commercial associate,Secondary / secondary special,Cash loans,0
+155,191307,M,Commercial associate,Secondary / secondary special,Cash loans,0
+156,352340,M,Working,Higher education,Cash loans,0
+157,282416,M,Working,Secondary / secondary special,Cash loans,0
+158,245505,M,Working,Secondary / secondary special,Cash loans,0
+159,210532,M,Working,Secondary / secondary special,Cash loans,0
+160,123256,M,Commercial associate,Higher education,Cash loans,0
+161,268018,M,Working,Secondary / secondary special,Cash loans,0
+162,204058,M,Working,Higher education,Cash loans,0
+163,144417,F,Working,Higher education,Cash loans,0
+164,251221,F,Working,Incomplete higher,Cash loans,0
+165,143578,F,Commercial associate,Higher education,Cash loans,0
+166,181611,F,Working,Higher education,Cash loans,0
+167,270321,F,Commercial associate,Incomplete higher,Cash loans,0
+168,350113,F,Working,Secondary / secondary special,Cash loans,0
+169,352245,F,Working,Secondary / secondary special,Revolving loans,0
+170,179391,M,Commercial associate,Secondary / secondary special,Cash loans,0
+171,375682,F,Commercial associate,Secondary / secondary special,Cash loans,0
+172,328009,F,Commercial associate,Higher education,Cash loans,0
+173,205461,F,Working,Secondary / secondary special,Cash loans,0
+174,123233,F,Working,Secondary / secondary special,Revolving loans,0
+175,380507,F,Working,Higher education,Cash loans,0
+176,121464,F,Commercial associate,Higher education,Cash loans,0
+177,170089,M,Working,Secondary / secondary special,Cash loans,0
+178,143544,F,Working,Secondary / secondary special,Cash loans,0
+179,406264,M,Working,Secondary / secondary special,Cash loans,0
+180,255159,F,Working,Secondary / secondary special,Cash loans,0
+181,454169,F,Working,Secondary / secondary special,Cash loans,0
+182,121671,M,Working,Secondary / secondary special,Cash loans,0
+183,134990,F,Working,Secondary / secondary special,Revolving loans,0
+184,292908,F,Working,Secondary / secondary special,Cash loans,0
+185,157824,F,State servant,Secondary / secondary special,Cash loans,0
+186,282423,F,State servant,Higher education,Cash loans,0
+187,331712,F,Working,Secondary / secondary special,Cash loans,0
+188,235508,M,Working,Higher education,Cash loans,0
+189,157791,M,Working,Secondary / secondary special,Cash loans,0
+190,391571,F,State servant,Secondary / secondary special,Cash loans,0
+191,145998,M,Commercial associate,Secondary / secondary special,Cash loans,0
+192,105650,M,State servant,Secondary / secondary special,Cash loans,0
+193,204764,F,Commercial associate,Higher education,Cash loans,0
+194,406632,F,Commercial associate,Secondary / secondary special,Cash loans,0
+195,108204,F,Commercial associate,Higher education,Cash loans,0
+196,272586,F,Working,Higher education,Cash loans,0
+197,253507,M,Working,Secondary / secondary special,Cash loans,0
+198,259325,F,State servant,Higher education,Revolving loans,0
+199,323057,F,Working,Secondary / secondary special,Revolving loans,0
+200,222942,F,Working,Secondary / secondary special,Cash loans,0
+201,139789,M,Working,Secondary / secondary special,Cash loans,0
+202,430172,F,Commercial associate,Secondary / secondary special,Cash loans,0
+203,155238,F,Working,Higher education,Cash loans,0
+204,190435,F,State servant,Secondary / secondary special,Cash loans,0
+205,275913,F,Working,Secondary / secondary special,Cash loans,0
+206,391643,M,Working,Secondary / secondary special,Cash loans,0
+207,302754,M,Working,Secondary / secondary special,Cash loans,0
+208,222027,M,Working,Secondary / secondary special,Cash loans,0
+209,244743,F,Commercial associate,Higher education,Cash loans,0
+210,151439,F,Commercial associate,Secondary / secondary special,Cash loans,0
+211,369323,M,Commercial associate,Secondary / secondary special,Cash loans,0
+212,162455,F,Working,Incomplete higher,Cash loans,0
+213,447177,F,Working,Secondary / secondary special,Cash loans,0
+214,211092,F,Working,Incomplete higher,Cash loans,0
+215,297537,F,Commercial associate,Secondary / secondary special,Cash loans,0
+216,165920,F,Working,Secondary / secondary special,Cash loans,0
+217,104030,F,Commercial associate,Secondary / secondary special,Cash loans,0
+218,245232,F,Working,Secondary / secondary special,Cash loans,0
+219,399928,F,Working,Higher education,Cash loans,0
+220,169049,F,Working,Higher education,Cash loans,0
+221,159247,F,Working,Incomplete higher,Cash loans,0
+222,383879,M,Working,Secondary / secondary special,Cash loans,0
+223,412103,F,Working,Secondary / secondary special,Revolving loans,0
+224,437230,F,Commercial associate,Secondary / secondary special,Cash loans,0
+225,214231,M,Working,Secondary / secondary special,Cash loans,0
+226,228251,M,Working,Secondary / secondary special,Cash loans,0
+227,409719,F,State servant,Higher education,Cash loans,0
+228,349378,F,Working,Higher education,Cash loans,0
+229,375772,M,Commercial associate,Higher education,Cash loans,0
+230,342373,F,Commercial associate,Higher education,Cash loans,0
+231,157077,F,Working,Secondary / secondary special,Cash loans,0
+232,255157,F,Commercial associate,Higher education,Cash loans,0
+233,242424,M,Commercial associate,Secondary / secondary special,Revolving loans,0
+234,372921,F,Working,Secondary / secondary special,Cash loans,0
+235,123962,F,Working,Higher education,Cash loans,0
+236,396818,F,Working,Secondary / secondary special,Cash loans,0
+237,229307,F,Working,Secondary / secondary special,Cash loans,0
+238,277484,F,Commercial associate,Incomplete higher,Cash loans,0
+239,397839,F,Commercial associate,Secondary / secondary special,Cash loans,0
+240,203781,M,Working,Higher education,Revolving loans,0
+241,287405,F,Commercial associate,Higher education,Cash loans,0
+242,117591,F,Commercial associate,Secondary / secondary special,Cash loans,0
+243,422380,M,Working,Secondary / secondary special,Cash loans,0
+244,379711,F,Working,Secondary / secondary special,Cash loans,0
+245,443493,M,Commercial associate,Secondary / secondary special,Cash loans,0
+246,234154,F,Commercial associate,Secondary / secondary special,Cash loans,0
+247,213395,F,Working,Higher education,Cash loans,0
+248,363832,M,Working,Secondary / secondary special,Cash loans,0
+249,140579,M,Working,Secondary / secondary special,Cash loans,0
+250,385490,F,Working,Secondary / secondary special,Cash loans,0
+251,443826,F,Working,Secondary / secondary special,Cash loans,0
+252,274458,F,Working,Secondary / secondary special,Cash loans,0
+253,127347,F,Working,Higher education,Cash loans,0
+254,397827,F,Working,Secondary / secondary special,Cash loans,0
+255,428766,F,Working,Secondary / secondary special,Cash loans,0
+256,437237,F,Working,Higher education,Revolving loans,0
+257,449987,F,Working,Secondary / secondary special,Cash loans,0
+258,264716,M,Working,Secondary / secondary special,Cash loans,0
+259,277042,M,Working,Incomplete higher,Cash loans,0
+260,191658,M,Working,Secondary / secondary special,Cash loans,0
+261,281069,M,Commercial associate,Secondary / secondary special,Cash loans,0
+262,375602,F,State servant,Higher education,Cash loans,0
+263,346535,M,Working,Secondary / secondary special,Cash loans,0
+264,423892,F,Commercial associate,Higher education,Cash loans,0
+265,108831,F,Commercial associate,Secondary / secondary special,Cash loans,0
+266,385298,F,Working,Secondary / secondary special,Cash loans,0
+267,408984,F,Working,Higher education,Cash loans,0
+268,226124,F,Working,Secondary / secondary special,Cash loans,0
+269,386559,F,Working,Secondary / secondary special,Cash loans,0
+270,214136,F,Working,Secondary / secondary special,Cash loans,0
+271,308850,F,Working,Secondary / secondary special,Revolving loans,0
+272,358100,F,State servant,Secondary / secondary special,Cash loans,0
+273,113924,M,Commercial associate,Secondary / secondary special,Cash loans,0
+274,313933,F,Commercial associate,Secondary / secondary special,Cash loans,0
+275,102552,M,Commercial associate,Higher education,Cash loans,0
+276,212867,F,Commercial associate,Secondary / secondary special,Cash loans,0
+277,361463,M,Working,Higher education,Cash loans,0
+278,147906,F,Working,Higher education,Revolving loans,0
+279,383495,M,Working,Secondary / secondary special,Cash loans,0
+280,262852,F,Working,Secondary / secondary special,Cash loans,0
+281,431076,F,Commercial associate,Secondary / secondary special,Cash loans,0
+282,305395,F,Working,Secondary / secondary special,Cash loans,0
+283,373942,F,Working,Higher education,Cash loans,0
+284,297350,F,Commercial associate,Higher education,Cash loans,0
+285,121699,M,Working,Secondary / secondary special,Cash loans,0
+286,289839,M,Commercial associate,Incomplete higher,Cash loans,0
+287,387203,F,Working,Secondary / secondary special,Cash loans,0
+288,370488,M,Working,Higher education,Cash loans,0
+289,409356,F,Working,Higher education,Cash loans,0
+290,415294,M,Working,Secondary / secondary special,Cash loans,0
+291,412972,F,Commercial associate,Secondary / secondary special,Cash loans,0
+292,143199,M,Working,Secondary / secondary special,Cash loans,0
+293,275760,M,Working,Secondary / secondary special,Cash loans,0
+294,338278,F,Working,Secondary / secondary special,Cash loans,0
+295,191081,F,Working,Secondary / secondary special,Cash loans,0
+296,447384,F,Working,Higher education,Cash loans,0
+297,430328,F,Commercial associate,Secondary / secondary special,Cash loans,0
+298,258000,F,Working,Secondary / secondary special,Cash loans,0
+299,211180,M,State servant,Secondary / secondary special,Cash loans,0
+300,214839,F,Working,Secondary / secondary special,Cash loans,0
+301,165855,M,Working,Secondary / secondary special,Cash loans,0
+302,181801,F,Working,Secondary / secondary special,Cash loans,0
+303,151211,M,State servant,Higher education,Cash loans,0
+304,299676,M,Commercial associate,Secondary / secondary special,Cash loans,0
+305,156130,F,Commercial associate,Incomplete higher,Cash loans,0
+306,243229,F,Working,Incomplete higher,Cash loans,0
+307,425675,F,Working,Secondary / secondary special,Cash loans,0
+308,279688,F,Working,Secondary / secondary special,Cash loans,0
+309,451303,M,Working,Secondary / secondary special,Cash loans,0
+310,361911,F,Working,Secondary / secondary special,Cash loans,0
+311,440487,F,Working,Secondary / secondary special,Cash loans,0
+312,401807,F,Commercial associate,Secondary / secondary special,Cash loans,0
+313,201204,F,Working,Secondary / secondary special,Cash loans,0
+314,286217,F,Working,Secondary / secondary special,Cash loans,0
+315,363352,M,Working,Secondary / secondary special,Cash loans,0
+316,143561,M,Working,Secondary / secondary special,Cash loans,0
+317,168940,M,Working,Secondary / secondary special,Cash loans,0
+318,217965,M,Commercial associate,Secondary / secondary special,Cash loans,0
+319,305974,F,Commercial associate,Secondary / secondary special,Cash loans,0
+320,299376,M,Working,Secondary / secondary special,Cash loans,0
+321,244083,M,Commercial associate,Higher education,Revolving loans,0
+322,435813,M,Working,Secondary / secondary special,Cash loans,0
+323,300540,F,Working,Secondary / secondary special,Cash loans,0
+324,242751,F,Working,Secondary / secondary special,Cash loans,0
+325,306794,F,Working,Secondary / secondary special,Revolving loans,0
+326,358488,M,Working,Secondary / secondary special,Revolving loans,0
+327,164785,F,Commercial associate,Secondary / secondary special,Cash loans,0
+328,114660,M,Commercial associate,Secondary / secondary special,Cash loans,0
+329,303394,F,Working,Secondary / secondary special,Cash loans,0
+330,166214,F,Working,Higher education,Cash loans,0
+331,137630,F,Working,Higher education,Cash loans,0
+332,250268,F,Working,Higher education,Cash loans,0
+333,431477,F,Commercial associate,Secondary / secondary special,Cash loans,0
+334,379343,F,Working,Secondary / secondary special,Cash loans,0
+335,362356,M,Working,Secondary / secondary special,Cash loans,0
+336,320518,M,Working,Secondary / secondary special,Cash loans,0
+337,243988,F,Working,Higher education,Cash loans,0
+338,227629,M,Commercial associate,Secondary / secondary special,Cash loans,0
+339,306260,F,Commercial associate,Secondary / secondary special,Cash loans,0
+340,201454,F,Working,Higher education,Cash loans,0
+341,118005,M,Working,Secondary / secondary special,Cash loans,0
+342,117650,M,Working,Secondary / secondary special,Cash loans,0
+343,379741,F,State servant,Higher education,Cash loans,0
+344,402589,F,Working,Secondary / secondary special,Cash loans,0
+345,277691,F,Working,Higher education,Revolving loans,0
+346,323659,F,Working,Secondary / secondary special,Cash loans,0
+347,298576,M,Commercial associate,Higher education,Cash loans,0
+348,399466,M,Working,Higher education,Cash loans,0
+349,430859,M,Working,Secondary / secondary special,Cash loans,0
+350,140261,F,Commercial associate,Secondary / secondary special,Cash loans,1
+351,158363,F,Working,Higher education,Cash loans,1
+352,208093,M,Working,Secondary / secondary special,Cash loans,1
+353,184483,F,Commercial associate,Higher education,Cash loans,1
+354,157924,F,Working,Secondary / secondary special,Cash loans,1
+355,353889,F,Working,Secondary / secondary special,Cash loans,1
+356,405704,F,Working,Secondary / secondary special,Revolving loans,1
+357,302238,M,State servant,Secondary / secondary special,Cash loans,1
+358,277230,F,Commercial associate,Secondary / secondary special,Cash loans,1
+359,322072,M,Commercial associate,Higher education,Cash loans,1
+360,125262,F,Working,Secondary / secondary special,Cash loans,1
+361,125773,M,Commercial associate,Higher education,Cash loans,1
+362,259114,M,Working,Secondary / secondary special,Cash loans,1
+363,259884,F,Commercial associate,Secondary / secondary special,Cash loans,1
+364,250208,F,Commercial associate,Higher education,Cash loans,1
+365,297058,M,Working,Secondary / secondary special,Cash loans,1
+366,309487,F,Working,Higher education,Cash loans,1
+367,368000,F,Working,Secondary / secondary special,Revolving loans,1
+368,449034,F,Working,Secondary / secondary special,Cash loans,1
+369,406074,F,Commercial associate,Secondary / secondary special,Cash loans,1
+370,344144,M,Working,Secondary / secondary special,Revolving loans,1
+371,443131,F,State servant,Secondary / secondary special,Cash loans,1
+372,177129,F,Working,Secondary / secondary special,Cash loans,1
+373,415348,M,Working,Secondary / secondary special,Cash loans,1
+374,238447,M,Working,Secondary / secondary special,Cash loans,1
+375,149623,M,Commercial associate,Secondary / secondary special,Cash loans,1
+376,198243,F,Working,Secondary / secondary special,Cash loans,1
+377,238264,F,Working,Secondary / secondary special,Revolving loans,1
+378,117188,M,Working,Secondary / secondary special,Cash loans,1
+379,133338,F,Working,Secondary / secondary special,Cash loans,1
+380,103163,M,Working,Secondary / secondary special,Cash loans,1
+381,145571,M,Commercial associate,Secondary / secondary special,Cash loans,1
+382,194317,M,Commercial associate,Secondary / secondary special,Cash loans,1
+383,436650,F,Working,Secondary / secondary special,Cash loans,1
+384,334883,M,Working,Incomplete higher,Cash loans,1
+385,320212,F,Working,Secondary / secondary special,Cash loans,1
+386,428495,F,Working,Secondary / secondary special,Cash loans,1
+387,346643,F,State servant,Secondary / secondary special,Cash loans,1
+388,243925,F,Working,Incomplete higher,Cash loans,1
+389,256468,F,Commercial associate,Higher education,Cash loans,1
+390,130352,F,Working,Secondary / secondary special,Revolving loans,1
+391,427538,M,Working,Secondary / secondary special,Cash loans,1
+392,175927,M,Working,Secondary / secondary special,Cash loans,1
+393,372210,F,Working,Secondary / secondary special,Cash loans,1
+394,139168,M,Working,Secondary / secondary special,Cash loans,1
+395,298430,F,State servant,Secondary / secondary special,Cash loans,1
+396,238340,M,Working,Higher education,Cash loans,1
+397,112515,F,State servant,Secondary / secondary special,Cash loans,1
+398,325929,F,Commercial associate,Secondary / secondary special,Cash loans,1
+399,227190,F,Commercial associate,Higher education,Cash loans,1
+400,151047,F,Working,Secondary / secondary special,Revolving loans,1
+401,116625,M,State servant,Higher education,Cash loans,1
+402,370243,M,Working,Secondary / secondary special,Cash loans,1
+403,143737,M,Commercial associate,Secondary / secondary special,Cash loans,1
+404,147753,M,Working,Secondary / secondary special,Cash loans,1
+405,258316,M,Working,Secondary / secondary special,Cash loans,1
+406,327089,F,Working,Higher education,Cash loans,1
+407,301488,M,Working,Incomplete higher,Cash loans,1
+408,221087,F,Commercial associate,Secondary / secondary special,Cash loans,1
+409,163685,F,Commercial associate,Higher education,Cash loans,1
+410,412304,F,Commercial associate,Secondary / secondary special,Cash loans,1
+411,188341,M,Commercial associate,Secondary / secondary special,Cash loans,1
+412,343213,F,State servant,Incomplete higher,Cash loans,1
+413,391175,F,Working,Secondary / secondary special,Cash loans,1
+414,150964,F,Commercial associate,Higher education,Cash loans,1
+415,246156,F,Commercial associate,Secondary / secondary special,Cash loans,1
+416,280574,M,Working,Secondary / secondary special,Cash loans,1
+417,190256,F,Working,Secondary / secondary special,Cash loans,1
+418,223766,F,Working,Secondary / secondary special,Cash loans,1
+419,440828,F,Working,Secondary / secondary special,Cash loans,1
+420,261717,M,Working,Secondary / secondary special,Cash loans,1
+421,375031,F,Working,Secondary / secondary special,Revolving loans,1
+422,205958,M,Working,Secondary / secondary special,Cash loans,1
+423,397495,M,Working,Secondary / secondary special,Cash loans,1
+424,278063,F,Working,Secondary / secondary special,Revolving loans,1
+425,367928,F,Working,Secondary / secondary special,Cash loans,1
+426,113637,M,Working,Secondary / secondary special,Cash loans,1
+427,258195,F,Working,Higher education,Cash loans,1
+428,101730,F,Working,Secondary / secondary special,Cash loans,1
+429,363779,M,Working,Secondary / secondary special,Cash loans,1
+430,268277,F,Working,Secondary / secondary special,Cash loans,1
+431,246860,M,Working,Secondary / secondary special,Cash loans,1
+432,164342,F,Working,Secondary / secondary special,Revolving loans,1
+433,388351,F,Working,Incomplete higher,Cash loans,1
+434,204248,M,Working,Higher education,Cash loans,1
+435,208603,F,Commercial associate,Incomplete higher,Cash loans,1
+436,282103,M,Working,Secondary / secondary special,Cash loans,1
+437,448780,M,Commercial associate,Secondary / secondary special,Cash loans,1
+438,418802,F,Commercial associate,Secondary / secondary special,Revolving loans,1
+439,442749,F,Commercial associate,Secondary / secondary special,Cash loans,1
+440,222620,M,Working,Secondary / secondary special,Cash loans,1
+441,437917,M,State servant,Higher education,Cash loans,1
+442,341779,F,State servant,Secondary / secondary special,Cash loans,1
+443,204604,F,Working,Secondary / secondary special,Cash loans,1
+444,347310,F,Commercial associate,Secondary / secondary special,Cash loans,1
+445,205442,M,Working,Secondary / secondary special,Cash loans,1
+446,269398,F,Working,Secondary / secondary special,Cash loans,1
+447,296797,F,Working,Secondary / secondary special,Cash loans,1
+448,373683,M,Commercial associate,Higher education,Cash loans,1
+449,106680,F,Commercial associate,Higher education,Cash loans,1
+450,445734,F,Working,Secondary / secondary special,Cash loans,1
+451,333332,F,Working,Higher education,Cash loans,1
+452,163986,F,Working,Secondary / secondary special,Revolving loans,1
+453,416979,F,Working,Secondary / secondary special,Cash loans,1
+454,328183,M,Working,Secondary / secondary special,Cash loans,1
+455,195319,F,State servant,Higher education,Cash loans,1
+456,288744,M,Working,Incomplete higher,Cash loans,1
+457,142029,F,Working,Secondary / secondary special,Cash loans,1
+458,120215,F,Commercial associate,Secondary / secondary special,Cash loans,1
+459,247847,F,Working,Secondary / secondary special,Revolving loans,1
+460,436226,F,Commercial associate,Secondary / secondary special,Cash loans,1
+461,134219,M,Commercial associate,Secondary / secondary special,Cash loans,1
+462,297270,F,Working,Incomplete higher,Cash loans,1
+463,343088,M,Working,Secondary / secondary special,Cash loans,1
+464,390661,F,Working,Secondary / secondary special,Cash loans,1
+465,160791,M,Commercial associate,Secondary / secondary special,Cash loans,1
+466,278333,M,Working,Higher education,Cash loans,1
+467,410283,F,Working,Secondary / secondary special,Revolving loans,1
+468,267910,F,Working,Higher education,Cash loans,1
+469,227338,M,Working,Secondary / secondary special,Cash loans,1
+470,239129,F,Working,Secondary / secondary special,Cash loans,1
+471,111717,F,Working,Secondary / secondary special,Revolving loans,1
+472,141976,F,Working,Higher education,Cash loans,1
+473,378754,M,Working,Secondary / secondary special,Cash loans,1
+474,244080,F,Working,Secondary / secondary special,Cash loans,1
+475,220626,F,Commercial associate,Higher education,Cash loans,1
+476,230003,F,Commercial associate,Incomplete higher,Revolving loans,1
+477,140786,M,Working,Secondary / secondary special,Cash loans,1
+478,407513,M,Working,Higher education,Cash loans,1
+479,176800,F,Working,Higher education,Cash loans,1
+480,173940,F,Working,Secondary / secondary special,Cash loans,1
+481,332277,M,Commercial associate,Secondary / secondary special,Cash loans,1
+482,256480,M,Commercial associate,Secondary / secondary special,Cash loans,1
+483,381398,F,Working,Secondary / secondary special,Cash loans,1
+484,136177,F,Working,Incomplete higher,Cash loans,1
+485,445177,M,Working,Secondary / secondary special,Cash loans,1
+486,226330,M,Working,Secondary / secondary special,Cash loans,1
+487,331720,M,Working,Lower secondary,Cash loans,1
+488,332024,M,Working,Higher education,Cash loans,1
+489,246044,M,Working,Secondary / secondary special,Cash loans,1
+490,217149,M,Commercial associate,Incomplete higher,Cash loans,1
+491,283182,F,Commercial associate,Incomplete higher,Cash loans,1
+492,362343,F,Working,Higher education,Cash loans,1
+493,210537,M,State servant,Higher education,Cash loans,1
+494,356809,M,Commercial associate,Incomplete higher,Cash loans,1
+495,358720,F,Commercial associate,Secondary / secondary special,Cash loans,1
+496,221128,F,Working,Secondary / secondary special,Cash loans,1
+497,229649,F,Working,Secondary / secondary special,Cash loans,1
+498,418352,M,Commercial associate,Higher education,Cash loans,1
+499,441142,F,Commercial associate,Secondary / secondary special,Cash loans,1
+500,158859,F,State servant,Higher education,Cash loans,1
+501,388871,F,Working,Higher education,Cash loans,1
+502,330031,M,Working,Secondary / secondary special,Revolving loans,1
+503,445729,F,Commercial associate,Secondary / secondary special,Cash loans,1
+504,349636,F,Working,Higher education,Cash loans,1
+505,360495,F,Working,Higher education,Cash loans,1
+506,278264,M,Working,Secondary / secondary special,Cash loans,1
+507,114417,F,Working,Secondary / secondary special,Cash loans,1
+508,122831,F,Working,Secondary / secondary special,Cash loans,1
+509,134786,M,Working,Secondary / secondary special,Cash loans,1
+510,434017,M,Commercial associate,Higher education,Cash loans,1
+511,240641,F,State servant,Secondary / secondary special,Cash loans,1
+512,234411,F,Working,Higher education,Cash loans,1
+513,374049,M,Commercial associate,Higher education,Cash loans,1
+514,420065,M,Working,Secondary / secondary special,Cash loans,1
+515,175859,F,Working,Secondary / secondary special,Cash loans,1
+516,284980,M,Working,Secondary / secondary special,Cash loans,1
+517,315953,M,Working,Secondary / secondary special,Cash loans,1
+518,369747,F,Working,Secondary / secondary special,Cash loans,1
+519,426545,F,State servant,Higher education,Cash loans,1
+520,371756,M,Working,Secondary / secondary special,Cash loans,1
+521,427888,M,Working,Incomplete higher,Cash loans,1
+522,267018,F,Working,Secondary / secondary special,Cash loans,1
+523,277924,F,Working,Secondary / secondary special,Cash loans,1
+524,335090,F,Commercial associate,Secondary / secondary special,Cash loans,1
+525,405597,M,Commercial associate,Secondary / secondary special,Cash loans,1
+526,274250,F,Working,Secondary / secondary special,Cash loans,1
+527,374785,M,Commercial associate,Secondary / secondary special,Cash loans,1
+528,151602,M,Commercial associate,Secondary / secondary special,Cash loans,1
+529,212301,F,Working,Secondary / secondary special,Cash loans,1
+530,300336,F,Working,Secondary / secondary special,Cash loans,1
+531,141822,F,Working,Secondary / secondary special,Cash loans,1
+532,356131,F,Working,Secondary / secondary special,Cash loans,1
+533,422298,F,Working,Secondary / secondary special,Cash loans,1
+534,101541,F,Commercial associate,Higher education,Cash loans,1
+535,182518,M,Commercial associate,Secondary / secondary special,Cash loans,1
+536,391883,F,Working,Secondary / secondary special,Cash loans,1
+537,230626,F,Commercial associate,Higher education,Cash loans,1
+538,196732,F,Working,Secondary / secondary special,Cash loans,1
+539,418834,F,Commercial associate,Higher education,Cash loans,1
+540,248361,F,Working,Secondary / secondary special,Cash loans,1
+541,398378,F,Commercial associate,Secondary / secondary special,Revolving loans,1
+542,101277,M,Working,Secondary / secondary special,Cash loans,1
+543,114494,F,Working,Secondary / secondary special,Cash loans,1
+544,155429,F,Commercial associate,Secondary / secondary special,Cash loans,1
+545,249712,F,Commercial associate,Higher education,Cash loans,1
+546,127165,F,Working,Secondary / secondary special,Cash loans,1
+547,391656,F,Commercial associate,Secondary / secondary special,Cash loans,1
+548,151523,M,Working,Secondary / secondary special,Cash loans,1
+549,358687,F,Working,Higher education,Cash loans,1
+550,358423,M,Working,Secondary / secondary special,Cash loans,1
+551,215509,F,Working,Incomplete higher,Revolving loans,1
+552,338992,F,Working,Higher education,Cash loans,1
+553,223705,M,Working,Higher education,Cash loans,1
+554,446020,F,Working,Lower secondary,Cash loans,1
+555,333294,F,Working,Higher education,Cash loans,1
+556,262003,M,Working,Secondary / secondary special,Cash loans,1
+557,220115,M,Working,Secondary / secondary special,Cash loans,1
+558,357265,M,Commercial associate,Secondary / secondary special,Cash loans,1
+559,382547,F,Working,Secondary / secondary special,Cash loans,1
+560,144452,M,Working,Secondary / secondary special,Cash loans,1
+561,184725,M,Working,Secondary / secondary special,Cash loans,1
+562,289655,M,Working,Secondary / secondary special,Cash loans,1
+563,433572,M,Working,Higher education,Cash loans,1
+564,417847,M,Working,Incomplete higher,Cash loans,1
+565,232457,F,Working,Incomplete higher,Cash loans,1
+566,117044,M,Commercial associate,Secondary / secondary special,Cash loans,1
+567,204933,F,Working,Secondary / secondary special,Cash loans,1
+568,372926,M,Working,Secondary / secondary special,Cash loans,1
+569,226877,F,Working,Secondary / secondary special,Cash loans,1
+570,281601,F,Working,Secondary / secondary special,Cash loans,1
+571,321127,M,Working,Secondary / secondary special,Cash loans,1
+572,333346,F,Working,Secondary / secondary special,Cash loans,1
+573,115948,F,Working,Incomplete higher,Revolving loans,1
+574,359063,F,Commercial associate,Higher education,Cash loans,1
+575,394909,M,Working,Secondary / secondary special,Cash loans,1
+576,177290,F,Working,Secondary / secondary special,Cash loans,1
+577,107742,M,Working,Incomplete higher,Cash loans,1
+578,393825,M,Commercial associate,Secondary / secondary special,Cash loans,1
+579,136595,M,Working,Secondary / secondary special,Cash loans,1
+580,283709,F,Working,Secondary / secondary special,Cash loans,1
+581,262755,M,Working,Secondary / secondary special,Cash loans,1
+582,308574,F,Commercial associate,Incomplete higher,Cash loans,1
+583,206652,F,Commercial associate,Higher education,Revolving loans,1
+584,225599,M,Commercial associate,Secondary / secondary special,Cash loans,1
+585,425267,M,Working,Higher education,Cash loans,1
+586,419930,M,Commercial associate,Higher education,Cash loans,1
+587,299998,F,Commercial associate,Secondary / secondary special,Cash loans,1
+588,228581,F,Working,Secondary / secondary special,Revolving loans,1
+589,129418,M,Working,Secondary / secondary special,Cash loans,1
+590,304108,F,Working,Secondary / secondary special,Cash loans,1
+591,256551,M,Working,Secondary / secondary special,Cash loans,1
+592,276115,F,Working,Secondary / secondary special,Revolving loans,1
+593,196547,F,Working,Higher education,Cash loans,1
+594,449726,M,Working,Secondary / secondary special,Cash loans,1
+595,323500,F,Working,Secondary / secondary special,Cash loans,1
+596,205040,M,Working,Secondary / secondary special,Cash loans,1
+597,302745,F,Working,Higher education,Cash loans,1
+598,107011,F,Working,Secondary / secondary special,Cash loans,1
+599,377002,F,Working,Secondary / secondary special,Cash loans,1
+600,262195,F,Commercial associate,Secondary / secondary special,Cash loans,1
+601,286248,F,Working,Secondary / secondary special,Cash loans,1
+602,161486,F,State servant,Higher education,Cash loans,1
+603,149208,M,Working,Secondary / secondary special,Revolving loans,1
+604,133792,F,Working,Higher education,Cash loans,1
+605,218189,F,Working,Higher education,Cash loans,1
+606,219614,M,Working,Secondary / secondary special,Cash loans,1
+607,451693,M,Commercial associate,Secondary / secondary special,Cash loans,1
+608,295825,M,Working,Higher education,Cash loans,1
+609,355921,F,State servant,Secondary / secondary special,Cash loans,1
+610,407999,M,Working,Higher education,Cash loans,1
+611,228138,M,Working,Secondary / secondary special,Cash loans,1
+612,350409,M,Working,Higher education,Cash loans,1
+613,124180,M,Working,Secondary / secondary special,Cash loans,1
+614,432570,F,Working,Secondary / secondary special,Revolving loans,1
+615,123167,F,Commercial associate,Secondary / secondary special,Cash loans,1
+616,439893,F,Working,Secondary / secondary special,Cash loans,1
+617,404044,F,Working,Secondary / secondary special,Cash loans,1
+618,185403,F,Working,Higher education,Cash loans,1
+619,333384,M,Working,Secondary / secondary special,Cash loans,1
+620,153321,F,Commercial associate,Higher education,Cash loans,1
+621,223233,F,Working,Secondary / secondary special,Cash loans,1
+622,107634,F,Working,Higher education,Cash loans,1
+623,388137,F,Commercial associate,Secondary / secondary special,Cash loans,1
+624,191339,M,Working,Incomplete higher,Cash loans,1
+625,419935,M,Commercial associate,Secondary / secondary special,Cash loans,1
+626,123230,F,Commercial associate,Incomplete higher,Cash loans,1
+627,349160,M,Working,Lower secondary,Cash loans,1
+628,235286,M,Working,Secondary / secondary special,Cash loans,1
+629,453796,F,Working,Higher education,Revolving loans,1
+630,211847,M,Commercial associate,Higher education,Cash loans,1
+631,386993,M,Working,Secondary / secondary special,Cash loans,1
+632,155899,F,Working,Secondary / secondary special,Cash loans,1
+633,119147,M,Working,Secondary / secondary special,Cash loans,1
+634,421154,F,Working,Secondary / secondary special,Cash loans,1
+635,315469,M,Commercial associate,Higher education,Cash loans,1
+636,127003,F,Commercial associate,Secondary / secondary special,Cash loans,1
+637,270904,F,Working,Higher education,Cash loans,1
+638,109157,F,Working,Secondary / secondary special,Revolving loans,1
+639,228646,M,Working,Incomplete higher,Cash loans,1
+640,373356,F,Working,Secondary / secondary special,Cash loans,1
+641,371602,F,Working,Secondary / secondary special,Cash loans,1
+642,251528,F,Working,Incomplete higher,Cash loans,1
+643,175487,F,Working,Secondary / secondary special,Cash loans,1
+644,450318,F,Working,Secondary / secondary special,Revolving loans,1
+645,119480,F,Working,Secondary / secondary special,Cash loans,1
+646,327999,F,Working,Secondary / secondary special,Cash loans,1
+647,278654,F,Working,Secondary / secondary special,Cash loans,1
+648,220996,M,Working,Secondary / secondary special,Cash loans,1
+649,405611,F,Working,Secondary / secondary special,Cash loans,1
+650,285015,F,Working,Incomplete higher,Cash loans,1
+651,151794,F,Working,Secondary / secondary special,Cash loans,1
+652,299396,F,Working,Secondary / secondary special,Cash loans,1
+653,341039,F,State servant,Secondary / secondary special,Cash loans,1
+654,294170,M,Working,Secondary / secondary special,Cash loans,1
+655,126228,M,Working,Secondary / secondary special,Cash loans,1
+656,399962,M,Working,Secondary / secondary special,Cash loans,1
+657,198087,F,Working,Secondary / secondary special,Cash loans,1
+658,123050,M,Working,Secondary / secondary special,Cash loans,1
+659,316044,F,Working,Higher education,Cash loans,1
+660,203766,M,Working,Secondary / secondary special,Cash loans,1
+661,278387,F,Commercial associate,Incomplete higher,Revolving loans,1
+662,361433,F,Working,Higher education,Cash loans,1
+663,204107,M,Working,Secondary / secondary special,Cash loans,1
+664,248157,M,Commercial associate,Higher education,Cash loans,1
+665,427372,F,Working,Higher education,Cash loans,1
+666,324174,M,Working,Higher education,Cash loans,1
+667,282425,M,Working,Secondary / secondary special,Cash loans,1
+668,153190,F,Working,Secondary / secondary special,Cash loans,1
+669,359880,F,Commercial associate,Secondary / secondary special,Cash loans,1
+670,109729,F,State servant,Higher education,Cash loans,1
+671,357488,F,Working,Secondary / secondary special,Cash loans,1
+672,145532,F,Working,Secondary / secondary special,Cash loans,1
+673,185190,F,Working,Secondary / secondary special,Cash loans,1
+674,360824,F,Working,Secondary / secondary special,Cash loans,1
+675,258481,F,Commercial associate,Higher education,Cash loans,1
+676,331994,F,State servant,Secondary / secondary special,Cash loans,1
+677,385520,F,Working,Secondary / secondary special,Cash loans,1
+678,403529,F,Working,Secondary / secondary special,Cash loans,1
+679,220103,F,Working,Secondary / secondary special,Cash loans,1
+680,453773,F,Working,Secondary / secondary special,Cash loans,1
+681,388040,M,Commercial associate,Higher education,Cash loans,1
+682,196591,F,Working,Secondary / secondary special,Revolving loans,1
+683,241200,M,Commercial associate,Secondary / secondary special,Cash loans,1
+684,343112,M,State servant,Secondary / secondary special,Cash loans,1
+685,339423,F,Working,Secondary / secondary special,Cash loans,1
+686,454982,M,Working,Secondary / secondary special,Cash loans,1
+687,234561,M,Working,Secondary / secondary special,Cash loans,1
+688,197240,F,Working,Secondary / secondary special,Cash loans,1
+689,204337,M,Working,Higher education,Cash loans,1
+690,322687,F,Commercial associate,Higher education,Cash loans,1
+691,230434,F,Commercial associate,Secondary / secondary special,Cash loans,1
+692,260354,M,Working,Higher education,Cash loans,1
+693,310230,F,Commercial associate,Secondary / secondary special,Cash loans,1
+694,117630,F,Working,Secondary / secondary special,Cash loans,1
+695,359443,F,Working,Secondary / secondary special,Cash loans,1
+696,113688,F,Working,Secondary / secondary special,Cash loans,1
+697,415945,F,Commercial associate,Lower secondary,Cash loans,1
+698,394425,F,Commercial associate,Secondary / secondary special,Cash loans,1
+699,305577,M,Working,Higher education,Cash loans,1
+700,366372,F,Working,Secondary / secondary special,Cash loans,1
+701,224042,F,Working,Secondary / secondary special,Cash loans,1
+702,272713,F,Commercial associate,Higher education,Cash loans,1
+703,367389,F,Working,Higher education,Cash loans,1
+704,192386,F,Working,Secondary / secondary special,Revolving loans,1
+705,352621,M,Commercial associate,Secondary / secondary special,Cash loans,1
+706,236115,F,Working,Secondary / secondary special,Cash loans,1
+707,322575,M,Working,Secondary / secondary special,Cash loans,1
+708,322378,F,Commercial associate,Secondary / secondary special,Cash loans,1
+709,372869,M,Working,Higher education,Cash loans,1
+710,289281,F,Working,Secondary / secondary special,Cash loans,1
+711,244919,F,Working,Secondary / secondary special,Cash loans,1
+712,235656,F,Working,Secondary / secondary special,Cash loans,1
+713,147274,M,Commercial associate,Secondary / secondary special,Revolving loans,1
+714,445604,M,Working,Higher education,Revolving loans,1
+715,401362,F,Working,Secondary / secondary special,Cash loans,1
+716,113981,F,Commercial associate,Secondary / secondary special,Cash loans,1
+717,455392,M,Working,Secondary / secondary special,Cash loans,1
+718,211144,F,Working,Secondary / secondary special,Cash loans,1
+719,335693,F,Working,Higher education,Cash loans,1
+720,323555,F,Commercial associate,Secondary / secondary special,Revolving loans,1
+721,394604,F,Commercial associate,Secondary / secondary special,Cash loans,1
+722,319699,F,Working,Secondary / secondary special,Cash loans,1
+723,441905,F,Working,Higher education,Cash loans,1
+724,165366,M,Working,Secondary / secondary special,Cash loans,1
+725,453139,M,Commercial associate,Secondary / secondary special,Cash loans,1
+726,425569,M,Working,Secondary / secondary special,Cash loans,1
+727,225126,M,Working,Higher education,Cash loans,1
+728,164039,F,Working,Secondary / secondary special,Cash loans,1
+729,455038,F,Commercial associate,Secondary / secondary special,Cash loans,1
+730,322392,M,Working,Secondary / secondary special,Cash loans,1
+731,172625,M,Working,Secondary / secondary special,Cash loans,1
+732,342878,F,Working,Incomplete higher,Revolving loans,1
+733,292617,M,Commercial associate,Secondary / secondary special,Cash loans,1
+734,216004,F,Working,Higher education,Cash loans,1
+735,248829,F,Working,Secondary / secondary special,Cash loans,1
+736,308959,F,Working,Incomplete higher,Cash loans,1
+737,279637,F,Working,Secondary / secondary special,Cash loans,1
+738,444400,F,Working,Secondary / secondary special,Cash loans,1
+739,413326,F,Working,Secondary / secondary special,Cash loans,1
+740,215415,M,Working,Higher education,Cash loans,1
+741,408376,F,Commercial associate,Secondary / secondary special,Cash loans,1
+742,249163,F,Working,Secondary / secondary special,Cash loans,1
+743,226822,F,State servant,Higher education,Cash loans,1
+744,127663,F,Working,Secondary / secondary special,Cash loans,1
+745,352383,M,Working,Secondary / secondary special,Cash loans,1
+746,153982,F,Working,Secondary / secondary special,Cash loans,1
+747,383912,F,Working,Secondary / secondary special,Cash loans,1
+748,250543,F,Working,Secondary / secondary special,Cash loans,1
+749,202071,M,Commercial associate,Secondary / secondary special,Cash loans,1
+750,273976,M,Working,Secondary / secondary special,Cash loans,1
+751,316369,M,Working,Higher education,Cash loans,1
+752,208207,F,Working,Secondary / secondary special,Cash loans,1
+753,414283,M,Working,Higher education,Cash loans,1
+754,379003,F,Working,Secondary / secondary special,Cash loans,1
+755,258228,F,Working,Secondary / secondary special,Cash loans,1
+756,285716,M,Working,Secondary / secondary special,Cash loans,1
+757,421526,F,Working,Higher education,Cash loans,1
+758,377844,M,Working,Secondary / secondary special,Cash loans,1
+759,104777,F,Working,Secondary / secondary special,Cash loans,1
+760,360854,F,Working,Secondary / secondary special,Cash loans,1
+761,394417,M,Commercial associate,Secondary / secondary special,Revolving loans,1
+762,285088,M,Working,Secondary / secondary special,Cash loans,1
+763,424991,M,Working,Secondary / secondary special,Cash loans,1
+764,140608,M,Working,Higher education,Cash loans,1
+765,136980,F,Working,Higher education,Cash loans,1
+766,327644,F,Working,Higher education,Cash loans,1
+767,200303,M,Working,Secondary / secondary special,Cash loans,1
+768,167986,F,Working,Incomplete higher,Cash loans,1
+769,349551,F,Working,Secondary / secondary special,Cash loans,1
+770,436770,F,Working,Secondary / secondary special,Cash loans,1
+771,102254,M,Commercial associate,Secondary / secondary special,Cash loans,1
+772,182724,F,Commercial associate,Secondary / secondary special,Cash loans,1
+773,297802,M,Working,Secondary / secondary special,Cash loans,1
+774,199111,F,Working,Higher education,Cash loans,1
+775,143408,F,Working,Secondary / secondary special,Cash loans,1
+776,160919,F,Commercial associate,Secondary / secondary special,Cash loans,1
+777,413199,F,State servant,Higher education,Cash loans,1
+778,108434,F,Working,Secondary / secondary special,Cash loans,1
+779,292821,F,Commercial associate,Secondary / secondary special,Revolving loans,1
+780,159116,M,Commercial associate,Secondary / secondary special,Cash loans,1
