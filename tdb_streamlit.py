@@ -260,6 +260,7 @@ def main() :
             st.write('## Interprétabilité du résultat')                            
             shap.initjs()   
             X=data[data['SK_ID_CURR']==identifiant]
+            X.drop(columns=['SK_ID_CURR'],inplace=True)
             
             fig, ax = plt.subplots(figsize=(10, 10))
             explainer = shap.TreeExplainer(model)
