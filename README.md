@@ -9,6 +9,23 @@ Prêt à dépenser décide donc de développer un dashboard interactif pour que 
 
 # Les étapes de traitement du projet :
 
+## 1- Features engineering et analyse exploratoire à partir des kernels Kaggle : 
+   - https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction#Exploratory-Data-Analysis
+   - https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+   - https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+ 
+ ## 2- Modélisation : P7_01_Modélisation.ipynb
+ 
+ ## 3- Développement d'une API Flask : branche github "App_Flask"
+ 
+ ## 4- Développement d'un dashboard via streamlit : branche github "App_Streamlit"
+ 
+ ## 5- Déployement du dashboard via Heroku : https://dsalmi-app-streamlit.herokuapp.com/
+ 
+ ## 6- Note méthodologique
+ 
+ 
+
 
 
 
