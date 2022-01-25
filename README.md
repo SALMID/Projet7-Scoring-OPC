@@ -7,6 +7,8 @@ De plus, les chargés de relation client ont fait remonter le fait que les clien
 
 Prêt à dépenser décide donc de développer un dashboard interactif pour que les chargés de relation client puissent à la fois expliquer de façon la plus transparente possible les décisions d’octroi de crédit, mais également permettre à leurs clients de disposer de leurs informations personnelles et de les explorer facilement. 
 
+# Les étapes de traitement du projet :
+
 
 
 
